@@ -25,7 +25,7 @@ Enter the command below to install django
 python3 -m pip install Django
 ```
 ### 2. Verifying
-To verify that Django can be seen by Python, type **python** from your shell. Then at the Python prompt, try to import Django:
+To verify that Django can be seen by Python, type ***python*** from your shell. Then at the Python prompt, try to import Django:
 
 ```bash
 >>> import django
